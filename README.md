@@ -32,4 +32,12 @@ with them? If so, could I determine the identity of the accomplice(s)?
 investigation (e.g. files that point to additional leads, accomplices, or any other activity
 not targeted by the initial investigation)?
 
+## Tools/Software Used 
 
+SDelete:  A tool from Microsoft’s Sysinternals suite that securely deletes files by overwriting their data, making recovery difficult. It operates via the command line.
+
+FTK Imager: A forensic tool used to create disk images of data for analysis. It captures exact copies of digital evidence, including files and file systems, ensuring data integrity for investigation.
+
+WinHex: A versatile hex editor and disk editor used for data recovery, digital forensics, and system analysis. It allows users to view and edit raw data at the byte level.
+
+MFT Stampede: A tool for analyzing and extracting data from the Master File Table (MFT) in NTFS file systems. It helps forensic experts recover file information and metadata.
